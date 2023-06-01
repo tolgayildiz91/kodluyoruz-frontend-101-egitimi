@@ -7,6 +7,11 @@ function helloWorld() {
 function hello() {
     console.log("Merhaba")
     helloWorld()
+  
+}
+
+function Deneme(){
+    console.log("Deneme yapıyorum")
 }
 
 
@@ -23,3 +28,4 @@ function hello() {
 
 
 hello() // calistir
+Deneme()
